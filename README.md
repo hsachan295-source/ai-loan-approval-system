@@ -9,7 +9,7 @@ This project predicts whether a loan will be approved or defaulted using Machine
 ## 🚀 Live Demo
 
 🔗 **App Link:**
-*https://ai-loan-approval-system-lgnxvwjm925orhqga7dsuf.streamlit.app/*
+*https://ai-loan-approval-system-wbb5tudpscpd7fguervc84.streamlit.app/*
 
 ---
 
